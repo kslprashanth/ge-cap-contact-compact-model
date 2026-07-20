@@ -1,0 +1,17 @@
+section,name,value,t_ge_nm,phi_b_ev,nd_cm3,rho_c_ohm_cm2
+setting,temperature_k,300.0,,,,
+setting,reference_doping_cm3,1e+20,,,,
+setting,tunneling_mass_ratio,0.19,,,,
+setting,relative_permittivity,11.7,,,,
+barrier,,,0.0,0.842,,
+barrier,,,0.283,0.727,,
+barrier,,,0.566,0.648,,
+transport,,,0.0,,1e+20,1.0208e-07
+transport,,,0.0,,3e+20,1.3839e-08
+transport,,,0.0,,1e+21,8.196e-09
+transport,,,0.283,,1e+20,6.287e-08
+transport,,,0.283,,3e+20,1.2809e-08
+transport,,,0.283,,1e+21,7.8617e-09
+transport,,,0.566,,1e+20,4.183e-08
+transport,,,0.566,,3e+20,1.1774e-08
+transport,,,0.566,,1e+21,7.9724e-09
